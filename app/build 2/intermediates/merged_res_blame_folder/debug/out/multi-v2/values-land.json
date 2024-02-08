@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.cameraapplication.app-mergeDebugResources-15:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/tanvigarud/.gradle/caches/transforms-3/7062eda7266c49e05fc2c264f2c9a92d/transformed/design-28.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "306",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "473"
+                    }
+                },
+                {
+                    "source": "/Users/tanvigarud/.gradle/caches/transforms-3/9cc405a4cb35f2bd27ebc7fcf11abc6f/transformed/appcompat-v7-28.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endColumns": "41",
+                        "endOffsets": "301"
+                    }
+                }
+            ]
+        }
+    ]
+}

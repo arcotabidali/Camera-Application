@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.cameraapplication.app-mergeDebugResources-16:/layout/activity_main.xml",
+        "source": "com.example.cameraapplication.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-mergeDebugResources-16:/layout/activity_imagecapture.xml",
+        "source": "com.example.cameraapplication.app-main-19:/layout/activity_imagecapture.xml"
+    }
+]

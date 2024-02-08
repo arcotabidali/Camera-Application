@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow8.jpg.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow8.jpg"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable_spinnerbackground.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable/spinnerbackground.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/xml_backup_rules.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/menu_menu_main.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_page1.jpg.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/page1.jpg"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow2.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow2.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/xml_pathsoffiles.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/xml/pathsoffiles.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow10.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow10.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow6.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow6.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownfinal.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownfinal.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow9.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow9.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/layout_activity_main.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow4.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow4.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable_shape.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cameraapplication.app-pngs-12:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow1.webp.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow1.webp"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable_spinner_item.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable/spinner_item.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownarrow5.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownarrow5.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/layout_activity_imagecapture.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/layout/activity_imagecapture.xml"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/drawable-v24_dropdownfinal1.png.flat",
+        "source": "com.example.cameraapplication.app-main-19:/drawable-v24/dropdownfinal1.png"
+    },
+    {
+        "merged": "com.example.cameraapplication.app-merged_res-17:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cameraapplication.app-main-19:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

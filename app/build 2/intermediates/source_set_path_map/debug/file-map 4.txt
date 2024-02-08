@@ -1,0 +1,20 @@
+com.example.cameraapplication.app-navigation-ui-1.0.0-0 /Users/tanvigarud/.gradle/caches/transforms-3/30a285de8b9368c404fc5dbc7c8da76b/transformed/navigation-ui-1.0.0/res
+com.example.cameraapplication.app-recyclerview-v7-28.0.0-1 /Users/tanvigarud/.gradle/caches/transforms-3/434dbb27182cab34bf479d44cf08caed/transformed/recyclerview-v7-28.0.0/res
+com.example.cameraapplication.app-navigation-fragment-1.0.0-2 /Users/tanvigarud/.gradle/caches/transforms-3/51cc22b6c8bec03b587d2093a64a4ebc/transformed/navigation-fragment-1.0.0/res
+com.example.cameraapplication.app-transition-28.0.0-3 /Users/tanvigarud/.gradle/caches/transforms-3/69f1ad2b4c2c65108989c3d0d62c74c2/transformed/transition-28.0.0/res
+com.example.cameraapplication.app-constraint-layout-2.0.4-4 /Users/tanvigarud/.gradle/caches/transforms-3/6d86efdff2fb8114b8a15e1569cd3ad0/transformed/constraint-layout-2.0.4/res
+com.example.cameraapplication.app-design-28.0.0-5 /Users/tanvigarud/.gradle/caches/transforms-3/7062eda7266c49e05fc2c264f2c9a92d/transformed/design-28.0.0/res
+com.example.cameraapplication.app-navigation-common-1.0.0-6 /Users/tanvigarud/.gradle/caches/transforms-3/7cd22886650197a58c64c477aaf8e4bf/transformed/navigation-common-1.0.0/res
+com.example.cameraapplication.app-cardview-v7-28.0.0-7 /Users/tanvigarud/.gradle/caches/transforms-3/88c210b9f68cbe2747dec9c4cd1c5159/transformed/cardview-v7-28.0.0/res
+com.example.cameraapplication.app-appcompat-v7-28.0.0-8 /Users/tanvigarud/.gradle/caches/transforms-3/9cc405a4cb35f2bd27ebc7fcf11abc6f/transformed/appcompat-v7-28.0.0/res
+com.example.cameraapplication.app-support-compat-28.0.0-9 /Users/tanvigarud/.gradle/caches/transforms-3/9e531ed48fff4ec0bab341ce146590e4/transformed/support-compat-28.0.0/res
+com.example.cameraapplication.app-coordinatorlayout-28.0.0-10 /Users/tanvigarud/.gradle/caches/transforms-3/da1eac50d77be7ad2dc48d42076c1160/transformed/coordinatorlayout-28.0.0/res
+com.example.cameraapplication.app-navigation-runtime-1.0.0-11 /Users/tanvigarud/.gradle/caches/transforms-3/ecd988e76a3d5ab11f73f39b404fcf50/transformed/navigation-runtime-1.0.0/res
+com.example.cameraapplication.app-pngs-12 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/build/generated/res/pngs/debug
+com.example.cameraapplication.app-resValues-13 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/build/generated/res/resValues/debug
+com.example.cameraapplication.app-rs-14 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/build/generated/res/rs/debug
+com.example.cameraapplication.app-packageDebugResources-15 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.cameraapplication.app-packageDebugResources-16 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.cameraapplication.app-merged_res-17 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/build/intermediates/merged_res/debug
+com.example.cameraapplication.app-debug-18 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/src/debug/res
+com.example.cameraapplication.app-main-19 /Users/tanvigarud/Desktop/CSE535 Assignment 2/CameraApplication/app/src/main/res
